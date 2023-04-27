@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucy Wanjiru Mwangi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Da Vinci's Cabin web page.**
+- 🔭 I’m currently working on **Chat GPT like chatbot.**
 
 - 🌱 I’m currently learning **Data Structures in JavaScript**
 
 - 👯 I’m looking to collaborate on **building learning games.**
 
-- 🤝 I’m looking for help with **building dynamic websites.**
+- 🤝 I’m looking for help with **building unity games.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucy-sees](https://github.com/lucy-sees)
 
