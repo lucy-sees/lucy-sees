@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucy Wanjiru Mwangi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Chat GPT like chatbot.**
+- 🔭 I’m currently working on **a learning website.**
 
 - 🌱 I’m currently learning **Data Structures in JavaScript**
 
