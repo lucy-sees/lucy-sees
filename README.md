@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **building learning games.**
 
-- 🤝 I’m looking for help with **building unity games.**
+- 🤝 I’m looking for help with **JavaScript Data Structures.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucy-sees](https://github.com/lucy-sees)
 
