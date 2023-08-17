@@ -4,11 +4,11 @@ A passionate frontend developer from Kenya</h3>
 
 - 🔭 I’m currently working on **a learning website.**
 
-- 🌱 I’m currently learning **JavaScript Object Oriented Programming**
+- 🌱 I’m currently learning **JavaScript Object Oriented Programming.**
 
 - 👯 I’m looking to collaborate on **building learning games.**
 
-- 🤝 I’m looking for help with **JavaScript Data Structures.**
+- 🤝 I’m looking for help with **Opensource Contributions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucy-sees](https://github.com/lucy-sees)
 
