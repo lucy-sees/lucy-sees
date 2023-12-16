@@ -4,7 +4,7 @@ A passionate frontend developer from Kenya</h3>
 
 - 🔭 I’m currently working on **a learning website.**
 
-- 🌱 I’m currently learning **JavaScript Object Oriented Programming and REACT.**
+- 🌱 I’m currently learning **Ruby on Rails and Databases.**
 
 - 👯 I’m looking to collaborate on **building learning games.**
 
