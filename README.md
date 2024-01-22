@@ -4,11 +4,11 @@ A passionate frontend developer from Kenya</h3>
 
 - 🔭 I’m currently working on **a learning website.**
 
-- 🌱 I’m currently learning **Ruby on Rails and Databases.**
+- 🌱 I’m currently learning **Deeplearning.AI and Tensorflow**
 
-- 👯 I’m looking to collaborate on **building learning games.**
+- 👯 I’m looking to collaborate on **Opensource projects.**
 
-- 🤝 I’m looking for help with **Opensource Contributions.**
+- 🤝 I’m looking for help with **getting an internship.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucy-sees](https://github.com/lucy-sees)
 
