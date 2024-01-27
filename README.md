@@ -10,7 +10,7 @@ A passionate frontend developer from Kenya</h3>
 
 - 🤝 I’m looking for help with **getting an internship.**
 
-- 👨‍💻 All of my projects are available at [My Porfolio Website](https://lucywanjirumwangi.me/)
+- 👨‍💻 Visit [My Porfolio Website](https://lucywanjirumwangi.me/) and take a look at some of my awesome projects.
 
 - 📫 How to reach me **lucywanjirumwangi21@gmail.com**
 
