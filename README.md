@@ -10,7 +10,7 @@ A passionate frontend developer from Kenya</h3>
 
 - 🤝 I’m looking for help with **internship opportunities.**
 
-- 👨‍💻 Visit [My Porfolio Website](https://lucywanjirumwangi.me/) and take a look at some of my awesome projects.
+- 👨‍💻 Visit [My Porfolio Website](https://lucywanjirumwangi.me/) and look at some of my projects.
 
 - 📫 How to reach me **<lucywanjirumwangi21@gmail.com>**
 
@@ -53,7 +53,8 @@ A passionate frontend developer from Kenya</h3>
 
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="./assets/images/nextjs.png" alt="next" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+            <i class="devicon-tailwindcss-original colored"></i> </a>
 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
