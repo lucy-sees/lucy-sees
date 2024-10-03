@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucy Wanjiru Mwangi</h1>
 <h3 align="center">
-A passionate frontend developer from Kenya</h3>
+A passionate Software developer from Kenya</h3>
 
 - 🔭 I’m currently working on **[HuruDevsTech](https://hurudevs.tech).**
 
@@ -8,13 +8,15 @@ A passionate frontend developer from Kenya</h3>
 
 - 👯 I’m looking to collaborate on **Opensource projects.**
 
-- 🤝 I’m looking for help with **internship opportunities.**
+- 🤝 I’m open to **work opportunities.**
+
+- 🆘 I can help you design/re-design your website ASAP!
 
 - 👨‍💻 Visit [My Porfolio Website](https://lucywanjirumwangi.me/) and look at some of my projects.
 
-- 📫 How to reach me **<lucywanjirumwangi21@gmail.com>**
+- 📫 How to reach me **<lucy@hurudevs.tech>**
 
-- ⚡ Fun fact **I make beats and write music.**
+- ⚡ Fun fact **I play chess.**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,9 +25,9 @@ A passionate frontend developer from Kenya</h3>
 
 <a href="https://twitter.com/lucy_w_mwangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lucy_w_mwangi" height="30" width="40" /></a>
 
-<a href="https://instagram.com/___the_lone_wolf___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___the_lone_wolf___" height="30" width="40" /></a>
+<a href="https://instagram.com/___the_lone_wolf___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hurudevs" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/@lucywanjirumwan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lucywanjirumwan1" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/@lucywanjirumwan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lucywanjirumwan1" height="30" width="40" /></a> -->
 
 </p>
 <h3 align="left">Languages, Tools and Frameworks:</h3>
@@ -52,9 +54,9 @@ A passionate frontend developer from Kenya</h3>
 <a href="https://tensorflow.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="./assets/images/nextjs.png" alt="next" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-            <i class="devicon-tailwindcss-original colored"></i> </a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"  /></a>
+
+<a href="https://www.tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="40" height="40" /></a>
 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
