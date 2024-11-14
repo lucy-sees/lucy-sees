@@ -2,7 +2,7 @@
 <h3 align="center">
 A passionate Software developer from Kenya</h3>
 
-- 🔭 I’m currently working on **[HuruDevsTech](https://hurudevs.tech).**
+- 🔭 I’m currently working on **[HuruDevsTech](https://huru-devs.tech).**
 
 - 🌱 I’m currently learning **Deeplearning.AI and Tensorflow.**
 
