@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucy Wanjiru Mwangi</h1>
 <h3 align="center">
-A passionate Software developer from Kenya</h3>
+A passionate Software Developer from Kenya</h3>
 
 - 🔭 I’m currently working on **[HuruDevsTech](https://huru-devs.tech).**
 
@@ -14,7 +14,7 @@ A passionate Software developer from Kenya</h3>
 
 - 👨‍💻 Visit [My Porfolio Website](https://lucywanjirumwangi.me/) and look at some of my projects.
 
-- 📫 How to reach me **<lucy@hurudevs.tech>**
+- 📫 How to reach me **<hurudevs@gmail.com>**
 
 - ⚡ Fun fact **I play chess.**
 
