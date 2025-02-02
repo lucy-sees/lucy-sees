@@ -12,7 +12,7 @@ A passionate Software Developer from Kenya</h3>
 
 - 🆘 I can help you design/re-design your website ASAP!
 
-- 👨‍💻 Visit [My Porfolio Website](https://lucywanjirumwangi.me/) and look at some of my projects.
+- 👨‍💻 Visit [My Porfolio Website](https://lucy-zeta.vercel.app/) and look at some of my projects.
 
 - 📫 How to reach me **<hurudevs@gmail.com>**
 
