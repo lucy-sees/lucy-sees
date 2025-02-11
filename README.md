@@ -1,28 +1,32 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hello!+I'm+Lucy+Wanjiru+Mwangi;Thanks+for+checking+out+my+GitHub!;⭐+Anything+you+find+useful!;Contact+me+if+you+have+any+questions!)](https://git.io/typing-svg)
 
-<div align="left">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="assets/images/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
-- 🔭 I’m currently working on **[HuruDevsTech](https://huru-devs.tech).**
+<div align="center">
+  
+   🔭 I’m currently working on **[HuruDevs](https://huru-devs.tech/).**
+  
+   🌱 I’m currently learning **Deeplearning.AI and Tensorflow.**
+   
+   👯 I’m looking to collaborate on **Opensource projects.**
 
-- 🌱 I’m currently learning **Deeplearning.AI and Tensorflow.**
+   🤝 I’m open to **work opportunities.**
 
-- 👯 I’m looking to collaborate on **Opensource projects.**
+   🆘 I can help you design/re-design your website ASAP!
 
-- 🤝 I’m open to **work opportunities.**
+   👨‍💻 Visit [My Porfolio Website](https://lucy-zeta.vercel.app/) and look at some of my projects.
 
-- 🆘 I can help you design/re-design your website ASAP!
+   📫 How to reach me **<hurudevs@gmail.com>**
 
-- 👨‍💻 Visit [My Porfolio Website](https://lucy-zeta.vercel.app/) and look at some of my projects.
+   ⚡ Fun fact **I play chess.**
+</div>
 
-- 📫 How to reach me **<hurudevs@gmail.com>**
-
-- ⚡ Fun fact **I play chess.**
 
 ---
 
