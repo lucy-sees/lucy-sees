@@ -20,7 +20,7 @@
 
    🆘 I can help you design/re-design your website ASAP!
 
-   👨‍💻 Visit [My Porfolio Website](https://lucy-wanjiru-mwangi.vercel.app/) and look at some of my projects.
+   👨‍💻 Visit [My Porfolio Website](https://lucy-wanjiru-mwangi.netlify.app/) and look at some of my projects.
 
    📫 How to reach me **<hurudevs@gmail.com>**
 
