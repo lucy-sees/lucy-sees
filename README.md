@@ -10,7 +10,7 @@
 
 <div align="center">
   
-   🔭 I’m currently working on **[HuruDevs](https://huru-devs.tech/).**
+   🔭 I’m currently working on **[huru-devs.tech](https://huru-devs.pages.dev/).**
   
    🌱 I’m currently learning **Deeplearning.AI and Tensorflow.**
    
@@ -111,10 +111,3 @@
 ![Trophy Case](https://github-profile-trophy.vercel.app/?username=lucy-sees&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </div>
-
-## Visitor's Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{lucy-sees}/count.svg" alt="Lucy :: Visitor's Count">
-</div>
-
